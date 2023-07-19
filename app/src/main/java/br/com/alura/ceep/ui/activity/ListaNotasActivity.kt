@@ -13,6 +13,7 @@ import br.com.alura.ceep.databinding.ActivityListaNotasBinding
 import br.com.alura.ceep.extensions.vaiPara
 import br.com.alura.ceep.ui.recyclerview.adapter.ListaNotasAdapter
 import kotlinx.coroutines.launch
+import retrofit2.Retrofit
 
 class ListaNotasActivity : AppCompatActivity() {
 
@@ -68,5 +69,6 @@ class ListaNotasActivity : AppCompatActivity() {
                         GONE
                     }
             }
+//        Retrofit
     }
 }

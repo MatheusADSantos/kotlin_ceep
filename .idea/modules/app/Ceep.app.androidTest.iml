@@ -89,9 +89,10 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ac8663779f5ea308b7f6fdba20189a4b/transformed/espresso-idling-resource-3.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7f95fe0006687e75e680eac534eaeb72/transformed/jetified-javawriter-2.1.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c438337c3c7e2be0620807e1d032ec3a/transformed/jetified-javax.inject-1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3fbb27e1be7f76ef63d87b14d45cf0ac/transformed/jetified-retrofit-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8b5e8edc1b7ca0046cca274bc20cc48d/transformed/constraintlayout-2.1.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/df933d3198f0691df6649d6b12bcc6c2/transformed/jetified-kotlin-stdlib-jdk7-1.6.10.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/a0825f65d7ca64a8f140296cb2da7fe6/transformed/jetified-okhttp-3.12.13.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3d3edb8f1c8ff296db2076dde857c39e/transformed/jetified-okhttp-3.14.9.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/13aa6229bd12b1ac1dcfc6ed4bbaf762/transformed/jetified-okio-jvm-2.10.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4539324eb1e26bf7a87a4a57888f8f25/transformed/jetified-kotlin-stdlib-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/966a66f0bde4edbf2679b9709b2f0627/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
