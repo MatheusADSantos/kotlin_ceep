@@ -30,11 +30,11 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3234f13654f160efa529b26cc8f6c945/transformed/jetified-viewbinding-8.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c305e77eb7bfe37eaec4bd7579687e1d/transformed/jetified-room-ktx-2.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/efda2746428295177c6e4f26d7cd7861/transformed/jetified-lifecycle-runtime-ktx-2.4.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/5a59497c19d70e05bf3328e97b907875/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5ed07a333406c86d95c0fe337ce4f3af/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e86101cb7ef272f481318de150421357/transformed/jetified-coil-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/39e94cf8db803686b13cf6ff3c5a49e0/transformed/jetified-coil-base-1.4.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/5f76d906b83c940322667ce6aa50c64d/transformed/jetified-kotlinx-coroutines-android-1.6.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/c660e981142f2f925ccb5c9410a81989/transformed/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a1d264d0b32603c58d805c93397106f9/transformed/jetified-kotlinx-coroutines-android-1.6.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1895849fa2be29fa948a2c04110351ce/transformed/jetified-kotlin-stdlib-jdk8-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/59244793cf5e0e6603cd16fcea036eb9/transformed/runner-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3f67760a775e542f2cbe84d2e56b0063/transformed/jetified-junit-4.12.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/25cd8039742ea1f555b0d23b4e6d00ad/transformed/jetified-hamcrest-integration-1.3.jar</arg>
@@ -92,14 +92,14 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ba3be838b175efff051a42e3b6cce8c7/transformed/jetified-converter-moshi-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3fbb27e1be7f76ef63d87b14d45cf0ac/transformed/jetified-retrofit-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8b5e8edc1b7ca0046cca274bc20cc48d/transformed/constraintlayout-2.1.3-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/df933d3198f0691df6649d6b12bcc6c2/transformed/jetified-kotlin-stdlib-jdk7-1.6.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ecfeaff267de98b655ad6959f2fb5b2b/transformed/jetified-kotlin-stdlib-jdk7-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3d3edb8f1c8ff296db2076dde857c39e/transformed/jetified-okhttp-3.14.9.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5f897eba8c180676daa91e8991822046/transformed/jetified-moshi-1.8.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/13aa6229bd12b1ac1dcfc6ed4bbaf762/transformed/jetified-okio-jvm-2.10.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/4539324eb1e26bf7a87a4a57888f8f25/transformed/jetified-kotlin-stdlib-1.6.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/25dbaadafe7938182740951c0753f420/transformed/jetified-kotlin-stdlib-1.6.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/966a66f0bde4edbf2679b9709b2f0627/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e39fb4cd65d79b645ba013a1a6c771f8/transformed/jetified-annotations-13.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/47ebefece13884f8cd1921b582044a64/transformed/jetified-kotlin-stdlib-common-1.6.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/98df3c7148a52a563cb6719f2cd60ca1/transformed/jetified-kotlin-stdlib-common-1.6.21.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/platforms/android-32/android.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
