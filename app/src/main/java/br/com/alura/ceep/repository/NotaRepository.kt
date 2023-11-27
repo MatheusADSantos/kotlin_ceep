@@ -1,5 +1,6 @@
 package br.com.alura.ceep.repository
 
+import android.util.Log
 import br.com.alura.ceep.database.dao.NotaDao
 import br.com.alura.ceep.model.Nota
 import br.com.alura.ceep.webclient.NotaWebClient
@@ -12,6 +13,8 @@ class NotaRepository(
     private val dao: NotaDao,
     private val webClient: NotaWebClient
 ) {
+
+    private val TAG: String? = "NotaRepository"
 
     fun buscaTodas(): Flow<List<Nota>> {
         return dao.buscaTodas()
@@ -32,6 +35,7 @@ class NotaRepository(
 
     suspend fun remove(id: String) {
         dao.remove(id)
+        webClient.remove(id)
     }
 
     suspend fun salva(nota: Nota) {
