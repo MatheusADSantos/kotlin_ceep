@@ -36,7 +36,7 @@ class ListaNotasActivity : AppCompatActivity() {
         configuraFab()
         configuraRecyclerView()
         lifecycleScope.launch {
-            launch { atualizaTodas() }
+            launch { sincroniza() }
             repeatOnLifecycle(Lifecycle.State.STARTED) {
                 buscaNotas()
             }
@@ -60,8 +60,8 @@ class ListaNotasActivity : AppCompatActivity() {
         }
     }
 
-    private suspend fun atualizaTodas() {
-        repository.atualizaTodas()
+    private suspend fun sincroniza() {
+        repository.sincroniza()
     }
 
     private suspend fun buscaNotas() {
